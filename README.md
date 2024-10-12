@@ -29,11 +29,15 @@ Matlab
 
 C 
 
+Front-end web development: HTML5, CSS3
+
 ## Learning Resources
 
 R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2 (Udemy, Kirill Eremenko)
 
 R & R Studio. Data Analytics, Data Science, Statistical Analysis in Business, GGPlot2 (Udemy, Kirill Eremenko)
+
+Duckett, J. (2011). HTML & CSS: design and build websites (Vol. 15). Indianapolis, IN, USA:: Wiley.
 
 ## Contact
 
